@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Basic Chat.xcodeproj">
+      location = "self:/Users/_coredump/Desktop/ActiveProjects/BirdBotiOS/REPO/BadBird.xcodeproj">
    </FileRef>
 </Workspace>
