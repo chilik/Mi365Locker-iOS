@@ -17,12 +17,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C3B98B6322130EFF00124A45 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../Basic-Chat/BadBird/AppDelegate.swift"; sourceTree = "<group>"; };
-		C3B98B6422130EFF00124A45 /* PeripheralTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralTableViewCell.swift; path = "../../Basic-Chat/BadBird/PeripheralTableViewCell.swift"; sourceTree = "<group>"; };
-		C3B98B6522130EFF00124A45 /* UartModuleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UartModuleViewController.swift; path = "../../Basic-Chat/BadBird/UartModuleViewController.swift"; sourceTree = "<group>"; };
-		C3B98B6622130EFF00124A45 /* UUIDKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UUIDKey.swift; path = "../../Basic-Chat/BadBird/UUIDKey.swift"; sourceTree = "<group>"; };
-		C3B98B6722130EFF00124A45 /* BLECentralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BLECentralViewController.swift; path = "../../Basic-Chat/BadBird/BLECentralViewController.swift"; sourceTree = "<group>"; };
-		C3B98B6922130EFF00124A45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../Basic-Chat/BadBird/Assets.xcassets"; sourceTree = "<group>"; };
+		C3B98B6322130EFF00124A45 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../Mi365Locker-iOS/BadBird/AppDelegate.swift"; sourceTree = "<group>"; };
+		C3B98B6422130EFF00124A45 /* PeripheralTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralTableViewCell.swift; path = "../../Mi365Locker-iOS/BadBird/PeripheralTableViewCell.swift"; sourceTree = "<group>"; };
+		C3B98B6522130EFF00124A45 /* UartModuleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UartModuleViewController.swift; path = "../../Mi365Locker-iOS/BadBird/UartModuleViewController.swift"; sourceTree = "<group>"; };
+		C3B98B6622130EFF00124A45 /* UUIDKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UUIDKey.swift; path = "../../Mi365Locker-iOS/BadBird/UUIDKey.swift"; sourceTree = "<group>"; };
+		C3B98B6722130EFF00124A45 /* BLECentralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BLECentralViewController.swift; path = "../../Mi365Locker-iOS/BadBird/BLECentralViewController.swift"; sourceTree = "<group>"; };
+		C3B98B6922130EFF00124A45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../Mi365Locker-iOS/BadBird/Assets.xcassets"; sourceTree = "<group>"; };
 		C3B98B6A22130F0000124A45 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
 		C3B98B6B22130F0000124A45 /* iTunesArtwork@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@1x.png"; sourceTree = "<group>"; };
 		C3B98B6D22130F0000124A45 /* badbird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = badbird.png; sourceTree = "<group>"; };
@@ -260,7 +260,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = Z6X45U4CFJ;
-				INFOPLIST_FILE = "$(SRCROOT)/../Basic-Chat/BadBird/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/../Mi365Locker-iOS/BadBird/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Zimperium.BadBird;
@@ -275,7 +275,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = Z6X45U4CFJ;
-				INFOPLIST_FILE = "$(SRCROOT)/../Basic-Chat/BadBird/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/../Mi365Locker-iOS/BadBird/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Zimperium.BadBird;
